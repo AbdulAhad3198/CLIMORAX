@@ -1,0 +1,6 @@
+{
+  "name": "CLIMORAX",
+  "description": "An adaptive multi-model weather intelligence platform combining NWP, AI and ensemble forecasts for explainable hybrid forecasting, risk analysis and verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
