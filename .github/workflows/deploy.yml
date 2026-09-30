@@ -37,7 +37,7 @@ jobs:
           static_site_generator: next
 
       - name: Install Dependencies
-        run: npm ci
+        run: npm install
 
       - name: Build Static Export
         run: npm run build
